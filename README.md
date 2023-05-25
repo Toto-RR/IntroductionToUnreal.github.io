@@ -67,3 +67,24 @@ Unreal Engine has several windows and can be overwhelming at first, but don't wo
 We will use the following video to learn about the different tools offered by Unreal Engine:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i-mT7Zpm8kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+After this, we already have all the basics to start developing our RPG game in Unreal Engine, in addition, Unreal offers tutorials within the engine itself to learn and deepen in the most interesting sections.
+
+## PROS AND CONS
+
+Unreal Engine has many good things, such as:
+
+- A wide range of development possibilities. In addition to PC, the engine supports VR, smartphones, and consoles.
+- Very intuitive and visual. The interface becomes very simple once you get some practice. Its programming style is also easy to understand and helpful for those who are not very skilled in programming.
+- Very powerful. You can easily see the graphic capabilities of Unreal, which are constantly increasing, especially in the latest version.
+- Free. The program is free, so anyone with a PC capable of running the engine can use it. However, anyone who earns money from a creation made with Unreal Engine will need to purchase a license.
+
+But it also has some flaws or drawbacks, such as:
+
+- Limited assets and a small community. The Unreal Engine community is quite limited compared to other engines, which makes the asset store less accessible due to the lack of content and high prices. In summary, it's difficult to find free assets and models for your video game, so you'll have to create them yourself or pay a high price.
+- Heavy projects. Even small projects can take up a significant amount of space. This doesn't have to be a disadvantage, but it's certainly something to consider.
+- Difficulty with retro or 2D games. If your idea is to create a game with a retro or 2D look, you're using the wrong engine, as Unreal Engine doesn't offer a simple way to create these types of video games.
+
+In conclusion, I believe that Unreal Engine can be a fantastic engine for everyone, with the only downside being that you will have to create and texture each asset you want to add to the game (as long as you want to create the game for free).
+
+Therefore, I would say that Unreal is a good engine and would be suitable for use in class to create a project with it.
