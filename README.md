@@ -62,4 +62,8 @@ Once our project has been uploaded... Congratulations! You have started your fir
 
 Unreal Engine has several windows and can be overwhelming at first, but don't worry, it's very easy to arrange the windows as you like from the "windows" tab at the top left.
 
+![paso4](https://github.com/Toto-RR/IntroductionToUnreal.github.io/assets/99719601/939dc9df-ec6b-4466-8444-64fce8bf9315)
+
+We will use the following video to learn about the different tools offered by Unreal Engine:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i-mT7Zpm8kU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
