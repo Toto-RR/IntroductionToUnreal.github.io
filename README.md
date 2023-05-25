@@ -2,7 +2,7 @@
 Introduction to Unreal Engine by Toni Romanos
 
 ## About me
-I'm a student at Citm, I'm 20 years old and I'm studying Game Design and Development.
+I'm a student at CITM, I'm 20 years old and I'm studying Game Design and Development.
 
 In this repository I will talk about how to start with Unreal Engine facing the project towards the development of an RPG, besides giving the pros and cons of carrying out the development of a game of this genre in Unreal.
 
