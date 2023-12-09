@@ -1,5 +1,5 @@
 # Introduction To Unreal
-Introduction to Unreal Engine by Toni Romanos
+A little introduction to Unreal Engine made by Toni Romanos
 
 ## About me
 I'm a student at CITM, I'm 20 years old and I'm studying Game Design and Development.
